@@ -7,7 +7,7 @@
 
 <!--[<img align="right" top="500" height="354" width="472" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" class="jop-noMdConv">](#) -->
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m currently learning **AWS**
     
 - 💬 Ask me about **Python and Django**
     
