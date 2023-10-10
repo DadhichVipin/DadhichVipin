@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" class="jop-noMdConv"> Hi , I'm Vipin Dadhich 
+# Hi , I'm Vipin Dadhich <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" class="jop-noMdConv">
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" class="jop-noMdConv"> **About me**
 
