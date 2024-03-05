@@ -3,7 +3,7 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" class="jop-noMdConv"> **About me**
 
 
-### A passionate Python Developer form Rajasthan, India with 1 years of experience in building web applications. I'm passionate about creating great user experiences and solving complex problems through code.
+### A passionate Python Developer from Rajasthan, India with 2 years of experience in building web applications. I'm passionate about creating great user experiences and solving complex problems through code.
 
 <!--[<img align="right" top="500" height="354" width="472" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" class="jop-noMdConv">](#) -->
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
